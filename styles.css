@@ -6,12 +6,25 @@
             color:black;
             text-decoration: underline;
             }   
-.title     {font-size: 28px;}
+
+.title     {font-size: 28px;
+            }
+
+.title2    {font-size: 20px;
+            }
+
+.title3    {font-size: 18px;
+            }
+
+aside      {text-align: center;
+            }
 
 
-.title2    {font-size: 20px;}
+ul         {font-family: Arial, Helvetica, sans-serif;
+            }
 
+ol,p       {font-family: 'Times New Roman', Times, serif, sans-serif;
+            }
 
-.title3    {font-size: 18px;}
-
-aside      {text-align: center;}
+*          {background-color:#FFFFE0;
+            }
