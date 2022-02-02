@@ -1,0 +1,17 @@
+.title,
+.title2,
+.title3    {font-family: "Times New Roman", sans-serif;
+            font-weight: bold;
+            font-style: oblique;
+            color:black;
+            text-decoration: underline;
+            }   
+.title     {font-size: 28px;}
+
+
+.title2    {font-size: 20px;}
+
+
+.title3    {font-size: 18px;}
+
+aside      {text-align: center;}
